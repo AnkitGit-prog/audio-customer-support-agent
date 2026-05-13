@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+openai
+openai-whisper
+edge-tts
+chromadb
+langchain
+langchain-openai
+langchain-community
+python-multipart
+python-dotenv
+requests
+aiofiles
+torch
+numpy
+pydub
