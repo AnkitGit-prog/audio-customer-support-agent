@@ -123,4 +123,4 @@ streamlit run streamlit_app.py
 ## 👨‍💻 Developer Notes
 This project was built with a focus on **latency** and **accuracy**. By offloading LLM tasks to Groq and keeping STT local, we achieve a balance of speed and privacy suitable for modern customer service applications.
 
-**Developed for Interview Showcase.**
+**Developed By AnkitGitprog.**
