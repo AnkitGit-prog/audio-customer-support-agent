@@ -11,7 +11,7 @@ A state-of-the-art **Voice AI Agent** designed for high-performance customer sup
 
 ## 📽️ Project Workflow
 
-The following diagram illustrates the end-to-end processing pipeline of the agent:
+The following diagram illustrates the end-to-end processing pipeline of the agent: 
 
 ```mermaid
 graph TD
